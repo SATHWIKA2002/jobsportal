@@ -39,7 +39,9 @@ const options={
         },
         servers:[
             {
-                url:"http://localhost:8080"
+                // url:"http://localhost:8080"
+                url:"https://jobsportal-1.onrender.com"
+               
             }
         ]
     },
